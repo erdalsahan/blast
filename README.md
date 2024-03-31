@@ -3,7 +3,7 @@ Blast
 
 This repo contains Blast's fork of optimism and op-geth. If you're interested in self hosting a Blast node for either mainnet or testnet, check out the docs [here](https://safe-violet-16b.notion.site/Blast-Deployment-Docs-b2f2b7b3c9a645fe8d6ce49fb963a467). 
 
-## Running Blast locally (against a local L1)
+## Running Blast locally (against a local L1) 
 
 ### Prereqs
 `docker`, `git`, `go1.20`, `node`, `pnpm`, `foundry`, `make`, `yarn`, `direnv`, `jq`
